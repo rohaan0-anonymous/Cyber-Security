@@ -10,3 +10,7 @@ Q3:If we wanted to search for the string Error in all files in the /var/log dire
 <img width="1666" height="808" alt="image" src="https://github.com/user-attachments/assets/c8d2b1dc-1156-4b6e-913e-ad32aa77ed18" />
 
 Q4: What would be the commands to calculate MD5 and SHA1 hashes of the file /etc/passwd?
+<img width="1538" height="85" alt="image" src="https://github.com/user-attachments/assets/2e087021-2232-45c7-b6f7-1da9b72c8d0e" />
+
+<img width="1240" height="90" alt="image" src="https://github.com/user-attachments/assets/8a2f3a15-a532-4ce6-ab19-8e4d48296085" />
+
