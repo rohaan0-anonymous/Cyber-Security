@@ -23,5 +23,15 @@ Q6: What command can we use to display all printable strings of length ≥ 8 in 
 Q7: Given the following output of the file command, can you determine what’s wrong with this file?
 $ file image.jpg
 image.jpg: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=3ab23bf566f9a955769e5096dd98093eca750431, for GNU/Linux 3.2.0, not stripped
-
 A: This file is a trap. It is named `image.jpg` to look like a harmless picture, but the `file` command reveals it is actually an **ELF executable**, which is a computer program. This mismatch means someone disguised a program (likely a virus) as a photo to trick you into running it.
+
+Q8: If we wanted to look for files modified in the last 30 minutes in /home directory, what command would we want to use?
+Hint: Explore how you can use find command to achieve this.
+<img width="1730" height="316" alt="image" src="https://github.com/user-attachments/assets/20a20d74-64ff-4362-bba2-9ec665903a4c" />
+
+Q9: What command can we use to display information about all active TCP connections on the system?
+<img width="1753" height="845" alt="image" src="https://github.com/user-attachments/assets/95f14370-3d41-4985-b79d-985a0cf72119" />
+
+
+
+
