@@ -32,6 +32,14 @@ Hint: Explore how you can use find command to achieve this.
 Q9: What command can we use to display information about all active TCP connections on the system?
 <img width="1753" height="845" alt="image" src="https://github.com/user-attachments/assets/95f14370-3d41-4985-b79d-985a0cf72119" />
 
+Q10: Given this corrupted image file, can you find a way to recover and view its contents?
+     Hint 1: A quick google search for “magic bytes” might help.
+     Hint 2: Explore how hexedit can help you here.
+     You may download the image using following command:
+     curl https://raw.githubusercontent.com/vonderchild/digital-forensics-lab/main/Lab%2001/files/challenge.png -o challenge.png
+
+A: flag{d1g1tal_f0r3ns1cs_101}
+
 
 
 
