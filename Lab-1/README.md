@@ -14,3 +14,5 @@ Q4: What would be the commands to calculate MD5 and SHA1 hashes of the file /etc
 
 <img width="1240" height="90" alt="image" src="https://github.com/user-attachments/assets/8a2f3a15-a532-4ce6-ab19-8e4d48296085" />
 
+Q5: Use the file command to determine the type of the file /usr/bin/cat and explain the output in 2-3 sentences.
+<img width="1886" height="108" alt="image" src="https://github.com/user-attachments/assets/eeb61dd5-1359-4cc0-83ae-41e4a8f188f0" />
