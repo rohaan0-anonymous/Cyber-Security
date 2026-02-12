@@ -6,3 +6,7 @@ A: <img width="1428" height="799" alt="image" src="https://github.com/user-attac
 
 Q2: A mole within the government has leaked top secret information to a spy. The mole, aware of spycraft techniques, used steganography to hide the information within an image, which he then slipped to his handler. The spy received the image and pasted it into a PowerPoint document, covering it with multiple random images to conceal it. One of our spies has gained access to the enemy spy's computer and recovered the PowerPoint document. Your mission is to extract the first image, extract the top secret information as well as the name and location of his source inside the government.
 The PowerPoint document can be downloaded from https://github.com/vonderchild/digital-forensics-lab/blob/main/Lab 03/files/Presentation.pptx.
+A: <img width="1623" height="135" alt="image" src="https://github.com/user-attachments/assets/a69abb4a-a8c2-4da4-bc47-6be08175726d" />
+   <img width="1906" height="102" alt="image" src="https://github.com/user-attachments/assets/9356a03a-7be7-4eaf-a702-cbcd99a683d2" />
+   <img width="945" height="699" alt="image" src="https://github.com/user-attachments/assets/a8ac1f4c-cea9-4d87-b233-1f7da38da6c1" />
+
